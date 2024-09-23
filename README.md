@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Amanupadhyay848/Amanuadhyay848/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 <img align="right"alt="coding"width="400"src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazROYkNUSnl6ZF92UTBYekk3aXpyUnU0RFltd3xBQ3Jtc0tsUnN4QWM1c2xLMTBuLW5od0l3ZnlHQ3ZZVFhSbDNoZ0xvb0xVc3FzV2JFaXdjaDA5VlVnWVZsZER5UnpFa09aNUswcEdoZlBpYWxhaXZmTFhDY2JPTGhqYUltVjVDZVdrcFVjcjJmbEJQQ0lNSnBKRQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
